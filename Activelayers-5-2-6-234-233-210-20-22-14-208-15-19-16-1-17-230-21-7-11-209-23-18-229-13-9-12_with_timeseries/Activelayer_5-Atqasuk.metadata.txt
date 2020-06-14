@@ -1,0 +1,97 @@
+
+Created: Fri Nov 22 2013 08:22:08 GMT+0000 (GMT)
+Last Update: Mon Feb 03 2014 14:43:20 GMT+0000 (GMT)
+Id: 5
+Name: Atqasuk
+Country: United States
+Timezone: -09:00
+Url: http://gtnpdatabase.org/activelayers/view/5
+Active: yes
+Permafrost_Zone: Continuous
+Longitude: -157.404665
+Latitude: 70.450882
+Elevation: 22.984718
+Slope: 0 °
+Aspect: 140.5 °
+Type: Grid
+Ancillary Code : U3
+Have_Data: yes
+Metadata Completeness: 84 %
+Description:  
+	DESCRIPTION OF AREA CONTAINING SITE:
+	The Atqasuk site is located along the Meade River on the inner Arctic Coastal Plain, approximately 100 km inland. The 1-km2 grid is situated on an ancient sand sea [Everett, 1980; Carter, 1981] developed on a 1% northfacing slope. A lake occupies a portion of the northeastern quadrant, and the well-drained sandy higher slopes are characterized by moist acidic tundra.  A 1 x 1 km2 grid of precisely surveyed stakes at 100-m intervals was established at Atqasuk in 1995 under the auspices of the U.S. National Science Foundation’s Arctic System Science (ARCSS) program. Simultaneous measurement of air and shallow  ground temperature has been operating continuously at the site since 1996 (Hinkel & Nelson, 2003).
+	SAMPLING DESIGN AND METHOD: 
+	1-sq km grid consists of a square array of surveyed permanent stakes separated by 100 m, yielding an 11 × 11 array of sampling nodes on each grid. Thaw depth and snow sampling was conducted twice by manual probing at each stake. The two values for each sampling point are averaged, yielding a maximum of 121 data points per grid per probing date. The active layer was not measured at locations where grid points intersect rocks or deep water.
+	The soil climate station was established in June of 1996 and is located about 1.5 miles south of the Atqasuk airport runway and within the CALM U3 grid. The elevation is about 22 m (74 ft). This station monitors air temperature, soil temperature at various depths to a maximum of 120 cm, and soil water content at 15, 25, 40, and 50 cm depths. Measurements are made at 20-minute intervals and averaged and recorded every hour.
+	DATA
+	Air Temperature, Soil temperature, and Soil moisture metadata and data are also available at http://soils.usda.gov/survey/scan/alaska/Atqasuk/
+Data Author: Nikolay Shiklomanov
+Observation: 
+	Lithology: Glacic Psammiturbel, Typic Histoturbel
+		Organic Layer thikness:20(cm); mineral texture - silty clay loam
+	Morphology: Inner coastal plain, drained lake basins
+	Vegetation: Graminoid, moss tundra tundra and tussock graminoid, erect-dwarf-shrub (wet and moist acidic)
+	Vegetation_Name: Grassland
+Accessibility: 
+Disturbance: 
+Citations: 
+	0: 
+		Title: CALM USA George Washington University
+		Keywords: Active Layer
+		Version: 1
+		Language: English
+		Created: Thu Oct 24 2013 14:27:58 GMT+0000 (GMT)
+		Modified: Tue May 24 2016 14:07:07 GMT+0000 (GMT)
+		Organizations: 
+			0: 
+				Name: The George Washington University, Department of Geography
+				Address: 
+					Address: 1922 F St., NW
+					Zip_Code: 20052
+					City: Washington
+					Country: USA
+					Phone: +1(202)994-3966
+					Email: shiklom@gwu.edu
+					Url: http://www.gwu.edu/
+		Principal Investigators: 
+			0: 
+				First_Name: Nikolay
+				Last_Name: Shiklomanov
+				Contact: yes
+				Position: Principal Investigator on CALM project
+				Address: 
+					Address: 1922 F St., NW
+					Zip_Code: 20052
+					City: Washington
+					Country: USA
+					Phone: +1(202)994-3966
+					Email: shiklom@gwu.edu
+					Url: http://www.http//www.gwu.edu/~calm/
+				Organization: 
+					Name: The George Washington University, Department of Geography
+					Address: 
+						Address: 1922 F St., NW
+						Zip_Code: 20052
+						City: Washington
+						Country: USA
+						Phone: +1(202)994-3966
+						Email: shiklom@gwu.edu
+						Url: http://www.gwu.edu/
+Datasets: 
+	0: 
+		Created: Fri Feb 14 2014 13:05:51 GMT+0000 (GMT)
+		Last Update: Mon Feb 19 2018 09:50:17 GMT+0000 (GMT)
+		Policy: Open
+		Variable: Active Layer Thickness (grid/transect)
+		Frequency: Unknown
+		Datatype: Sporadic
+		Method: Mechanical Probing
+		Medium: Soil
+		Resolution: Irrelevant
+		Number of values: 3872
+		Number of null values: 477
+		Minimum value: 0
+		Maximum value: 188
+		Avarage value: 50.2858314464867
+		Data: 
+			Csv File: Activelayer_5-Atqasuk-Dataset_275-Sporadic-Unknown-Active_Layer_Thickness_grid_transect-Mechanical_Probing.timeserie.csv

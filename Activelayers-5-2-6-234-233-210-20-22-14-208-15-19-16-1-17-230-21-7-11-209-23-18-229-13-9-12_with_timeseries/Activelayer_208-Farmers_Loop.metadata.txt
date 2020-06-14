@@ -1,0 +1,79 @@
+
+Created: Mon Feb 03 2014 09:38:57 GMT+0000 (GMT)
+Last Update: Mon Feb 03 2014 09:39:46 GMT+0000 (GMT)
+Id: 208
+Name: Farmers Loop
+Country: United States
+Timezone: -09:00
+Url: http://gtnpdatabase.org/activelayers/view/208
+Active: no
+Permafrost_Zone: Discontinuous
+Longitude: -148.11666
+Latitude: 65.4666
+Elevation: 428.26373291
+Slope: 9 °
+Aspect: 40.1 °
+Type: Grid
+Ancillary Code : U41
+Have_Data: yes
+Metadata Completeness: 65 %
+Description: THE SITE DISCRIPTION FOR U41 FARMERS LOOP IS UNDER DEVELOPMENT. FOR INFORMATION, PLEASE CONTACT U41 SITE INVESTIGATOR DIRECTLY
+Data Author: Thomas  Douglas
+Observation: 
+	Vegetation_Name: Coniferous Forest
+Accessibility: 
+Disturbance: 
+Citations: 
+	0: 
+		Title: CALM USA CRREL
+		Keywords: Active layer
+		Version: 1
+		Language: English
+		Created: Mon Feb 03 2014 09:28:03 GMT+0000 (GMT)
+		Modified: Mon Feb 03 2014 09:28:03 GMT+0000 (GMT)
+		Organizations: 
+			0: 
+				Name: U.S. Army - Cold Regions Research and Engineering Laboratory
+				Address: 
+					Address: 72 Lyme Road, New Hampshire
+					Zip_Code: 03755-1290
+					City: Hanover
+					Country: USA
+					Phone: +603-646-4100
+					Email: info@crrel.usace.army.mil
+					Url: http://www.crrel.usace.army.mil/
+		Principal Investigators: 
+			0: 
+				First_Name: Thomas 
+				Last_Name: Douglas
+				Contact: no
+				Address: 
+					Email: Thomas.A.Douglas@usace.army.mil
+				Organization: 
+					Name: U.S. Army - Cold Regions Research and Engineering Laboratory
+					Address: 
+						Address: 72 Lyme Road, New Hampshire
+						Zip_Code: 03755-1290
+						City: Hanover
+						Country: USA
+						Phone: +603-646-4100
+						Email: info@crrel.usace.army.mil
+						Url: http://www.crrel.usace.army.mil/
+Datasets: 
+	0: 
+		Created: Wed Mar 21 2018 09:01:00 GMT+0000 (GMT)
+		Last Update: Wed Mar 21 2018 09:01:00 GMT+0000 (GMT)
+		Policy: Open
+		Variable: Active Layer Thickness (grid/transect)
+		Frequency: As Needed
+		Datatype: Average
+		Method: Ground Subsidence
+		Medium: Unknown
+		Resolution: Irrelevant
+		Number of values: 1815
+		Number of null values: 0
+		Minimum value: 37
+		Maximum value: 119
+		Avarage value: 60.0564208518755
+		Data: 
+			Csv File: Activelayer_208-Farmers_Loop-Dataset_2094-Average-As_Needed-Active_Layer_Thickness_grid_transect-Ground_Subsidence.timeserie.csv

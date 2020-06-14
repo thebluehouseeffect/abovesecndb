@@ -1,0 +1,168 @@
+
+Created: Mon Dec 30 2013 10:37:46 GMT+0000 (GMT)
+Last Update: Mon Feb 03 2014 12:42:12 GMT+0000 (GMT)
+Id: 19
+Name: Galbraith Lake
+Country: United States
+Timezone: -09:00
+Url: http://gtnpdatabase.org/activelayers/view/19
+Active: yes
+Permafrost_Zone: Continuous
+Longitude: -149.5
+Latitude: 68.483333
+Elevation: 822.106079
+Slope: 2 °
+Aspect: 238 °
+Type: Grid
+Ancillary Code : U14
+Have_Data: yes
+Metadata Completeness: 84 %
+Description: DESCRIPTION OF AREA CONTAINING SITE:
+	Broad glaciated mountain valley.  Landcover units include Graminoid-moss tundra and graminoid,  prostrate-dwarf-shrub, moss tundra (wet and moist nonacidic).
+	SAMPLING DESIGN AND METHOD: 
+	1 ha grid consists of a square array of surveyed permanent stakes separated by 10 m, yielding an 11 × 11 array of sampling nodes on each grid. Thaw depth and snow sampling was conducted twice by manual probing at each stake. The two values for each sampling point are averaged, yielding a maximum of 121 data points per grid per probing date. The active layer was not measured at locations where grid points intersect rocks or deep water.
+	DATA :
+	Only thaw depth data determined by mechanical probing is reported on CALM website. For additional data refer to http://www.gi.alaska.edu/snowice/Permafrost-lab/index.html or contact site investigators directly
+Data Author: Vladimir E. Romanovsky
+Observation: 
+	Landform: Broad glaciated mountain valley
+	Lithology: Ruptic-Histic Aquiturbel. Organic layer thickness is 27 cm
+	Vegetation: Graminoid-moss tundra and graminoid, prostrate-dwarf-shrub, moss tundra (wet and moist nonacidic)
+	Vegetation_Name: Tundra
+Accessibility: 
+Disturbance: 
+Citations: 
+	0: 
+		Title: CALM USA UAF
+		Keywords: Active layer
+		Version: 1
+		Language: English
+		Created: Mon Feb 03 2014 10:17:27 GMT+0000 (GMT)
+		Modified: Tue Dec 01 2015 14:22:12 GMT+0000 (GMT)
+		Organizations: 
+			0: 
+				Name: University of Alaska Fairbanks Water and Environmental Research Center
+				Address: 
+					Address: University of Alaska Fairbanks, Duckering Building 437 306 Tanana Loop P. O. Box 5860
+					Zip_Code: 99775-5860
+					City: Fairbanks
+					Region: Alaska 
+					Country: USA
+					Phone: (907) 474-7789
+					Fax: (907) 474-7041
+					Url: http://ine.uaf.edu/werc/
+			1: 
+				Name: University of Alaska Fairbanks Institute of Northern Engineering
+				Address: 
+					Address: PO Box 755910 539 Duckering Building 306 Tanana Loop
+					Zip_Code: 99775-5910
+					City: Fairbanks
+					Region: Alaska
+					Country: USA
+					Phone: 907-474-5457
+					Fax: 907-474-7041
+					Url: http://ine.uaf.edu/
+			2: 
+				Name: University of Alaska Fairbanks Geophysical Institute
+				Address: 
+					Address: 903 Koyukuk Drive, P.O.Box 757320
+					Zip_Code: 99775
+					City: Fairbanks
+					Region: AK 
+					Country: USA
+					Phone: (907)474-7459
+					Fax: (907)474-7290
+					Url: http://www.gi.alaska.edu/
+		Principal Investigators: 
+			0: 
+				First_Name: Vladimir E.
+				Last_Name: Romanovsky
+				Role: INVESTIGATOR
+				Contact: yes
+				Address: 
+					Address: 903 Koyukuk Drive, P.O.Box 757320 
+					Zip_Code: 99775
+					City: Fairbanks
+					Region: AK
+					Country: USA
+					Phone: (907)474-7459
+					Fax: (907)474-7290 
+					Email: veromanovsky@alaska.edu
+					Url: http://www.gi.alaska.edu/profile/vladimir-romanovsky
+				Organization: 
+					Name: University of Alaska Fairbanks Geophysical Institute
+					Address: 
+						Address: 903 Koyukuk Drive, P.O.Box 757320
+						Zip_Code: 99775
+						City: Fairbanks
+						Region: AK 
+						Country: USA
+						Phone: (907)474-7459
+						Fax: (907)474-7290
+						Url: http://www.gi.alaska.edu/
+			1: 
+				First_Name: Alexander L.
+				Last_Name: Kholodov
+				Contact: no
+				Address: 
+					Address: Geophysical Institute University of Alaska Fairbanks 903 Koyukuk Drive
+					City: Fairbanks
+					Country: USA
+					Phone: 1 (907) 474-7698
+					Fax: 1 (907) 474-7290
+					Email: akholodov@gi.alaska.edu
+				Organization: 
+					Name: University of Alaska Fairbanks Geophysical Institute
+					Address: 
+						Address: 903 Koyukuk Drive, P.O.Box 757320
+						Zip_Code: 99775
+						City: Fairbanks
+						Region: AK 
+						Country: USA
+						Phone: (907)474-7459
+						Fax: (907)474-7290
+						Url: http://www.gi.alaska.edu/
+			2: 
+				First_Name: William L.
+				Last_Name: Cable
+				Role: USA National Correspondent
+				Contact: yes
+				Position: Research Professional
+				Address: 
+					Address: 903 Koyukuk Dr.
+					Zip_Code: 99775
+					City: Fairbanks
+					Region: AK
+					Country: United States
+					Phone: +1 303-351-1105
+					Email: wlcable@alaska.edu
+					Url: http://permafrost.gi.alaska.edu/users/wlcable
+				Organization: 
+					Name: University of Alaska Fairbanks Geophysical Institute
+					Address: 
+						Address: 903 Koyukuk Drive, P.O.Box 757320
+						Zip_Code: 99775
+						City: Fairbanks
+						Region: AK 
+						Country: USA
+						Phone: (907)474-7459
+						Fax: (907)474-7290
+						Url: http://www.gi.alaska.edu/
+Datasets: 
+	0: 
+		Created: Fri Feb 14 2014 13:19:44 GMT+0000 (GMT)
+		Last Update: Fri Feb 16 2018 15:32:27 GMT+0000 (GMT)
+		Policy: Open
+		Variable: Active Layer Thickness (grid/transect)
+		Frequency: Unknown
+		Datatype: Sporadic
+		Method: Mechanical Probing
+		Medium: Soil
+		Resolution: Irrelevant
+		Number of values: 2541
+		Number of null values: 22
+		Minimum value: 15
+		Maximum value: 112
+		Avarage value: 53.9552518805883
+		Data: 
+			Csv File: Activelayer_19-Galbraith_Lake-Dataset_283-Sporadic-Unknown-Active_Layer_Thickness_grid_transect-Mechanical_Probing.timeserie.csv

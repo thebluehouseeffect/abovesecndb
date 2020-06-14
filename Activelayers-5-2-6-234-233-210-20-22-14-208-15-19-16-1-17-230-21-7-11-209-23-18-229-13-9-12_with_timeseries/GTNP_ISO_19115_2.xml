@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MD_Metadata xmlns:fcc="http://standards.iso.org/iso/19110/fcc/1.0" xmlns:cat="http://standards.iso.org/iso/19115/-3/cat/1.0" xmlns:cit="http://standards.iso.org/iso/19115/-3/cit/1.0" xmlns:gco="http://standards.iso.org/iso/19115/-3/gco/1.0" xmlns:gcx="http://standards.iso.org/iso/19115/-3/gcx/1.0" xmlns:gex="http://standards.iso.org/iso/19115/-3/gex/1.0" xmlns:gmw="http://standards.iso.org/iso/19115/-3/gmw/1.0" xmlns:lan="http://standards.iso.org/iso/19115/-3/lan/1.0" xmlns:mac="http://standards.iso.org/iso/19115/-3/mac/1.0" xmlns:mas="http://standards.iso.org/iso/19115/-3/mas/1.0" xmlns:mcc="http://standards.iso.org/iso/19115/-3/mcc/1.0" xmlns:mco="http://standards.iso.org/iso/19115/-3/mco/1.0" xmlns:md1="http://standards.iso.org/iso/19115/-3/md1/1.0" xmlns:md2="http://standards.iso.org/iso/19115/-3/md2/1.0" xmlns:mda="http://standards.iso.org/iso/19115/-3/mda/1.0" xmlns:mdb="http://standards.iso.org/iso/19115/-3/mdb/1.0" xmlns:mds="http://standards.iso.org/iso/19115/-3/mds/1.0" xmlns:mex="http://standards.iso.org/iso/19115/-3/mex/1.0" xmlns:mmi="http://standards.iso.org/iso/19115/-3/mmi/1.0" xmlns:mpc="http://standards.iso.org/iso/19115/-3/mpc/1.0" xmlns:mrc="http://standards.iso.org/iso/19115/-3/mrc/1.0" xmlns:mrd="http://standards.iso.org/iso/19115/-3/mrd/1.0" xmlns:mri="http://standards.iso.org/iso/19115/-3/mri/1.0" xmlns:mrl="http://standards.iso.org/iso/19115/-3/mrl/1.0" xmlns:mrs="http://standards.iso.org/iso/19115/-3/mrs/1.0" xmlns:msr="http://standards.iso.org/iso/19115/-3/msr/1.0" xmlns:srv="http://standards.iso.org/iso/19115/-3/srv/2.0" xmlns:dqc="http://standards.iso.org/iso/19157/-2/dqc/1.0" xmlns:mdq="http://standards.iso.org/iso/19157/-2/mdq/1.0" xmlns:gco0="http://www.isotc211.org/2005/gco" xmlns:gsr="http://www.isotc211.org/2005/gsr" xmlns:gss="http://www.isotc211.org/2005/gss" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.isotc211.org/2005/gmd D:/Arctic portal/Page21 DBMS/Database/ISO/Newest_ISO/XML-master/standards.iso.org/19115/-3/mda/1.0/mda.xsd" xmlns="http://www.isotc211.org/2005/gmd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<fileIdentifier>
+		<gco0:CharacterString>Global Terrestrial Network for Permafrost - Data Management system</gco0:CharacterString>
+	</fileIdentifier>
+	<language>
+		<gco0:CharacterString>eng; usa</gco0:CharacterString>
+	</language>
+	<characterSet>
+		<MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="UTF8"/>
+	</characterSet>
+	<hierarchyLevel>
+		<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="Service"/>
+	</hierarchyLevel>
+	<hierarchyLevelName>
+		<gco0:CharacterString>Data Management System</gco0:CharacterString>
+	</hierarchyLevelName>
+	<contact>
+		<CI_ResponsibleParty>
+			<individualName>
+				<gco0:CharacterString>Global Terrestrial Network for Permafrost, Director Biskaborn B.</gco0:CharacterString>
+			</individualName>
+			<organisationName>
+				<gco0:CharacterString>Alfred Wegener Institute for Polar and Marine Research</gco0:CharacterString>
+			</organisationName>
+			<positionName>
+				<gco0:CharacterString>Doctor</gco0:CharacterString>
+			</positionName>
+			<contactInfo>
+				<CI_Contact>
+					<phone>
+						<CI_Telephone>
+							<voice>
+								<gco0:CharacterString>+49(331)288-2102</gco0:CharacterString>
+							</voice>
+						</CI_Telephone>
+					</phone>
+					<address>
+						<CI_Address>
+							<deliveryPoint>
+								<gco0:CharacterString>Alfred Wegener Institute  Telegrafenberg A43 D</gco0:CharacterString>
+							</deliveryPoint>
+							<city>
+								<gco0:CharacterString>Potsdam</gco0:CharacterString>
+							</city>
+							<postalCode>
+								<gco0:CharacterString>14473</gco0:CharacterString>
+							</postalCode>
+							<country>
+								<gco0:CharacterString>Germany</gco0:CharacterString>
+							</country>
+							<electronicMailAddress>
+								<gco0:CharacterString>boris.biskaborn@awi.de</gco0:CharacterString>
+							</electronicMailAddress>
+						</CI_Address>
+					</address>
+				</CI_Contact>
+			</contactInfo>
+			<role>
+				<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="principalInvestigator"/>
+			</role>
+		</CI_ResponsibleParty>
+	</contact>
+	<dateStamp>
+		<gco0:Date>2016-05-20T10:34:48.904Z</gco0:Date>
+	</dateStamp>
+	<metadataStandardName>
+		<gco0:CharacterString>http://standards.iso.org/iso/19115/-3</gco0:CharacterString>
+	</metadataStandardName>
+	<dataSetURI>
+		<gco0:CharacterString>http://gtnpdatabase.org</gco0:CharacterString>
+	</dataSetURI>
+	<identificationInfo>
+		<MD_DataIdentification>
+			<citation>
+				<CI_Citation>
+					<title>
+						<gco0:CharacterString>Global Terrestrial Network for Permafrost - Data Management System</gco0:CharacterString>
+					</title>
+					<date>
+						<CI_Date>
+							<date>
+								<gco0:DateTime>2016-05-20T10:34:48.904Z</gco0:DateTime>
+							</date>
+						</CI_Date>
+					</date>
+					<ISSN>
+						<gco0:CharacterString>ISSN 2410-2385</gco0:CharacterString>
+					</ISSN>
+				</CI_Citation>
+			</citation>
+			<abstract>
+				<gco0:CharacterString>The Global Terrestrial Network for Permafrost (GTN-P) is the primary international programme concerned with monitoring permafrost parameters. GTN-P was developed in the 1990s by the International Permafrost Association (IPA) under the Global Climate Observing System (GCOS) and the Global Terrestrial Observing Network (GTOS), with the longterm goal of obtaining a comprehensive view of the spatial structure, trends and variability of changes in the active layer thickness and permafrost temperature. </gco0:CharacterString>
+			</abstract>
+			<purpose>
+				<gco0:CharacterString>This data collection is a web-based resource for the Permafrost essential climate variables (ECVs) of the Global Terrestrial Network for Permafrost (GTN-P), aiming to enable the assessment of the relation between permafrost temperature, active layer thickness, gas fluxes and the Earth’s climate system.</gco0:CharacterString>
+			</purpose>
+			<credit gco0:nilReason="Global Terrestrial Network for Permafrost (GTN-P)"/>
+			<status>
+				<MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="onGoing" codeSpace="004"/>
+			</status>
+			<descriptiveKeywords>
+				<MD_Keywords>
+					<keyword>
+						<gco0:CharacterString>Antarctica</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>Argentina</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>Austria</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>Canada</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>China</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>Switzerland</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>Spain</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>Finland</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>France</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>Greenland</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>Italy</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>Japan</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>Kyrgystan</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>Kazakhstan</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>Mongolia</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>Norway</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>Poland</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>Russia</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>Sweden</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>Svalbard</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>United States</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>Iceland</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>Germany</gco0:CharacterString>
+					</keyword>
+					<type>
+						<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="002"/>
+					</type>
+				</MD_Keywords>
+				<MD_Keywords>
+					<keyword>
+						<gco0:CharacterString>BOREHOLE</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>EARTH SCIENCE</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>CRYOSPHERE</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>FROZEN GROUND</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>PERMAFROST</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>PERMAFROST TEMPERATURE</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>SNOW/ICE</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>ACTIVE LAYER</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>ICE DEPTH/THICKNESS</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>FREEZE/THAW</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>TERRESTRIAL HYDROSPHERE</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>CRYOSOLS</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>GROUND ICE</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>PERIGLACIAL PROCESSES</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>SOIL TEMPERATURE</gco0:CharacterString>
+					</keyword>
+					<keyword>
+						<gco0:CharacterString>SEASONALLY FROZEN GROUND</gco0:CharacterString>
+					</keyword>
+					<type>
+						<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="005"/>
+					</type>
+					<thesaurusName>
+						<CI_Citation>
+							<title>
+								<gco0:CharacterString>GCMD Platform Keywords</gco0:CharacterString>
+							</title>
+						</CI_Citation>
+					</thesaurusName>
+				</MD_Keywords>
+			</descriptiveKeywords>
+			<extent>
+				<EX_Extent>
+					<geographicElement>
+						<EX_GeographicBoundingBox>
+							<westBoundLongitude>
+								<gco0:Decimal>-171.630229</gco0:Decimal>
+							</westBoundLongitude>
+							<eastBoundLongitude>
+								<gco0:Decimal>177.4185</gco0:Decimal>
+							</eastBoundLongitude>
+							<southBoundLatitude>
+								<gco0:Decimal>-78.51155</gco0:Decimal>
+							</southBoundLatitude>
+							<northBoundLatitude>
+								<gco0:Decimal>82.5</gco0:Decimal>
+							</northBoundLatitude>
+						</EX_GeographicBoundingBox>
+					</geographicElement>
+					<temporalElement>
+						<EX_TemporalExtent>
+							<extent>
+								<gml:TimePeriod>
+									<gml:beginPosition>1891-01-15T12:00:00</gml:beginPosition>
+									<gml:endPosition>2016-02-19T00:00:00</gml:endPosition>
+								</gml:TimePeriod>
+							</extent>
+						</EX_TemporalExtent>
+					</temporalElement>
+					<verticalElement>
+						<EX_VerticalExtent>
+							<minimumValue>
+								<gco0:Real>-20.4997406</gco0:Real>
+							</minimumValue>
+							<maximumValue>
+								<gco0:Real>5068.55029297</gco0:Real>
+							</maximumValue>
+						</EX_VerticalExtent>
+					</verticalElement>
+				</EX_Extent>
+			</extent>
+		</MD_DataIdentification>
+	</identificationInfo>
+	<distributionInfo>
+		<MD_Distribution>
+			<distributor>
+				<MD_Distributor>
+					<distributorContact>
+						<CI_ResponsibleParty>
+							<individualName>
+								<gco0:CharacterString>Lanckman, Jean-Pierre</gco0:CharacterString>
+							</individualName>
+							<organisationName>
+								<gco0:CharacterString>Arctic Portal</gco0:CharacterString>
+							</organisationName>
+							<positionName>
+								<gco0:CharacterString>Data Manager</gco0:CharacterString>
+							</positionName>
+							<contactInfo>
+								<CI_Contact>
+									<phone>
+										<CI_Telephone>
+											<voice>
+												<gco0:CharacterString>(+354)4612800</gco0:CharacterString>
+											</voice>
+										</CI_Telephone>
+									</phone>
+									<address>
+										<CI_Address>
+											<deliveryPoint>
+												<gco0:CharacterString>Skipagata 12</gco0:CharacterString>
+											</deliveryPoint>
+											<city>
+												<gco0:CharacterString>Akureyri</gco0:CharacterString>
+											</city>
+											<postalCode>
+												<gco0:CharacterString>600</gco0:CharacterString>
+											</postalCode>
+											<country>
+												<gco0:CharacterString>Iceland</gco0:CharacterString>
+											</country>
+											<electronicMailAddress>
+												<gco0:CharacterString>gtnpdatabase@arcticportal.org</gco0:CharacterString>
+											</electronicMailAddress>
+										</CI_Address>
+									</address>
+									<onlineResource>
+										<CI_OnlineResource>
+											<linkage>
+												<URL>http://arcticportal.org</URL>
+											</linkage>
+										</CI_OnlineResource>
+									</onlineResource>
+								</CI_Contact>
+							</contactInfo>
+						</CI_ResponsibleParty>
+					</distributorContact>
+				</MD_Distributor>
+			</distributor>
+		</MD_Distribution>
+	</distributionInfo>
+</MD_Metadata>

@@ -1,0 +1,90 @@
+
+Created: Mon Feb 03 2014 10:07:26 GMT+0000 (GMT)
+Last Update: Tue Nov 10 2015 16:01:09 GMT+0000 (GMT)
+Id: 210
+Name: Bonanza Creek
+Country: United States
+Timezone: -09:00
+Url: http://gtnpdatabase.org/activelayers/view/210
+Active: no
+Permafrost_Zone: Discontinuous
+Longitude: -148
+Latitude: 64.75
+Elevation: 125.70238495
+Slope: 0 °
+Aspect: 260.5 °
+Type: Grid
+Ancillary Code : U18
+Have_Data: yes
+Metadata Completeness: 81 %
+Description:  
+	DESCRIPTION OF AREA CONTAINING SITE:
+	The Bonanza Creek Long Term Ecological Research (LTER) site is located on an old terrace on the south side of Tanana River adjacent to the Bonanza Creek Experimental Forest at an elevation of 129 m and at the following GPS coordinates: 64o 42󈧸”N; 148o 08󈧯”W. The study site was established in 1987 as part of a network of LTER sites and is adjacent to a permanent plot established by L.A. Viereck in 1965. The designation of the site in the LTER terminology is FP5C – indicating that it is one of a replicate of four black spruce stands (5A-5D) in the successional sequence on the floodplain (FP) of the Tanana River. The vegetation of the site consist of open black spruce with widely scattered individuals of tamarack (Larix laricina). It is classified as an open black spruce forest (Open Picea mariana/Alnus crispa-Ledum groennlandicum-Vaccinium vitis-idaea/Hylocomium splendens-Pleurozium schreberi community) (Viereck et al, 1993). Total tree canopy is 32%. Tree density in 1989 totaled 2684 trees/ha. Average diameter is 15 cm and heights range from 10 to 15 m. A complete description of the FP5C site with a photograph can be seen on the Bonanza Creek LTER web site: http://www.lter.uaf.edu/site.cfm?site_pkey=30
+	NEW INFO!
+	On June 12th, 2010 lightning ignited a wildfire in the area of FP5C (U18).  Due to the equipment risk the meteorological station was removed at this time, though the soil sensors were left in the ground.  The fire was slow to spread, however warm weather conditions and high winds eventually pushed the fire closer to the research site.  Some time near the end of July the site was burned.  The slow moving nature of the fire consumed nearly the entire organic mat including tree roots.  Most of the standing trees in the area subsequently fell to the ground though their boles were not consumed (see photo).  The plot location markers were relocated in late August and the meteorological station was reestablished.  The original soil temperature sensor wires were repaired without disturbing their locations and all previous measuring activities were resumed.  A Campbell Scientific, Inc. camera was installed at the site and can be seen at http://www.lter.uaf.edu/bnz_webCamera.cfm
+	SAMPLING DESIGN AND METHOD: 
+	Although the site was established in 1987, measurements of the annual active layer thickness were not started until September of 1990. In 1992 a weather station was established at the site that records hourly air temperatures and soil temperatures at depths of 0, 5, 10, 20, 50, 100, and 200 cm. In addition a 20-meter long, 10 point transect with a board walk was installed in 1992 to measure the seasonal thaw of the active layer. The CALM measurements are not taken from that probe line. Instead the depth of thaw for the CALM data is obtained from a 20 point grid that is part of 50 by 60 meter vegetation plot at the site. The individual probe sites are in a  4 x 5 grid of permanent vegetation plots that are 10 meters apart. The probing of the active layer is made at a fixed distance and direction from the center point of each of the vegetation plots in mid to late September. The site was missed in 1993.
+	DATA
+	Only thaw depth data determined by mechanical probing and air and soil temperature for several years are reported on CALM website. For additional data refer to http://www.lter.uaf.edu/ or contact site investigators directly
+Data Author: Brian Charlton
+Observation: 
+	Landform: Old terrace, south side Tanana River
+	Lithology: The soil at this site is classified as a Pergelic Cryaquepts and is in the Tanana Soil Series. At this site the 01 and 02 layers of moss and decaying organic material averages 24 cm in thickness. A complete description and profile of the FP5 sites soils and a diagram of the successional sequence on the Tanana River floodplain are given in Van Cleve, Viereck, and Dyrness 1996. 
+		Pergelic Cryaquepts
+	Vegetation: Open black spruce forest
+	Vegetation_Name: Coniferous Forest
+	Description: General description of soil moisture  : moist
+Accessibility: 
+Disturbance: 
+Citations: 
+	0: 
+		Title: CALM USA BNZ LTER
+		Keywords: Active layer
+		Version: 1
+		Language: English
+		Created: Mon Feb 03 2014 09:51:22 GMT+0000 (GMT)
+		Modified: Mon Feb 03 2014 09:51:22 GMT+0000 (GMT)
+		Organizations: 
+			0: 
+				Name: Bonanza Creek Long Term Ecological Research 
+				Address: 
+					Country: USA
+					Url: http://www.lter.uaf.edu/default.cfm
+		Principal Investigators: 
+			0: 
+				First_Name: Brian
+				Last_Name: Charlton
+				Contact: no
+				Address: 
+					Address: Boreal Ecology Cooperative Research Unit University of Alaska Fairbanks School of Agriculture and Land Resources Management P.O
+					Zip_Code: 99775-6780
+					City: Fairbanks
+					Region: AK
+					Country: USA
+					Phone: (907) 474-5104
+					Fax: (907) 474-6251
+					Email: bacharlton@alaska.edu
+					Url: http://www.lter.uaf.edu/personnel_detail.cfm?people_pkey=263
+				Organization: 
+					Name: Bonanza Creek Long Term Ecological Research 
+					Address: 
+						Country: USA
+						Url: http://www.lter.uaf.edu/default.cfm
+Datasets: 
+	0: 
+		Created: Tue Nov 10 2015 16:07:14 GMT+0000 (GMT)
+		Last Update: Tue Nov 10 2015 16:07:14 GMT+0000 (GMT)
+		Policy: Open
+		Variable: Active Layer Thickness (grid/transect)
+		Frequency: As Needed
+		Datatype: Sporadic
+		Method: Mechanical Probing
+		Medium: Soil
+		Resolution: Irrelevant
+		Number of values: 580
+		Number of null values: 0
+		Minimum value: 30
+		Maximum value: 330
+		Avarage value: 146.8785
+		Data: 
+			Csv File: Activelayer_210-Bonanza_Creek-Dataset_1516-Sporadic-As_Needed-Active_Layer_Thickness_grid_transect-Mechanical_Probing.timeserie.csv

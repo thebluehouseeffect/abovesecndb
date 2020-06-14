@@ -1,0 +1,29 @@
+
+Global Terrestrial Network for Permafrost - CITATION
+
+We are working on the DOI of the dataset. Please use the preliminary citation: 
+
+
+GTN-P 2016. Global Terrestrial Network for Permafrost Database: Active Layer Thickness Data (CALM - Circumpolar Active Layer Monitoring). Akureyri, Iceland. ISSN 2410-2385.
+
+
+
+Data Policy
+Kindly contact the appropriate Principal Investigators (PIs) of the chosen data sets and inform them how you are using soil temperature (TSP) and active layer (CALM) data and if you are planning a publication. If the PIs feel that they should be acknowledged or offered participation as authors, they will let you know, and we assume that an agreement on such matters will be reached prior to publishing and/or use of the data for publication. If your work directly competes with the PIs analysis, they may ask to have the opportunity to submit a manuscript before you submit the one that uses their data. In addition, when publishing a paper using permafrost data, please acknowledge the agency that supported the permafrost research.
+
+
+Contacts:
+
+Biskaborn Boris (GTN-P Director)
+Alfred Wegener Institute for Polar and Marine Research
+Telegrafenberg A43
+Potsdam 14473
+Germany
+boris.biskaborn@awi.de
+
+Johannsson Halldor (Arctic Portal Director)
+Arctic Portal
+Skipagata 12
+Akureyri 600
+Iceland
+halldor@arcticportal.org

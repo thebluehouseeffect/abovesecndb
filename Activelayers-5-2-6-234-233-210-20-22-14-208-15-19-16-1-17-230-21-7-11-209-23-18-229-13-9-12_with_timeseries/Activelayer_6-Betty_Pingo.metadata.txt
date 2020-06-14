@@ -1,0 +1,100 @@
+
+Created: Fri Nov 22 2013 08:25:33 GMT+0000 (GMT)
+Last Update: Mon Feb 03 2014 14:28:59 GMT+0000 (GMT)
+Id: 6
+Name: Betty Pingo
+Country: United States
+Timezone: -09:00
+Url: http://gtnpdatabase.org/activelayers/view/6
+Active: no
+Permafrost_Zone: Continuous
+Longitude: -148.866914
+Latitude: 70.284779
+Elevation: 8
+Slope: 0 °
+Aspect: 241.6 °
+Type: Grid
+Ancillary Code : U7 A
+Have_Data: yes
+Metadata Completeness: 81 %
+Description: DESCRIPTION OF AREA CONTAINING SITE:
+	Batty Pingo grid is located on the outer Arctic Coastal Plain within the Prudhoe Bay oil field. Contrasts between polygonized ‘‘uplands’’ and drained thaw-lake basins constitute the primary relief at these sites, and lakes and ponds are ubiquitous elements of the landscape. Landcover units include moist nonacidic tundra and wet tundra vegetation, and Typic Aquorthel soils developed in alluvium (Walker and Bockheim, 1995;Hinkel & Nelson, 2003).
+	SAMPLING DESIGN AND METHOD: 
+	1-sq km grid consists of a square array of surveyed permanent stakes separated by 100 m, yielding an 11 × 11 array of sampling nodes on each grid. Thaw depth and snow sampling was conducted twice by manual probing at each stake. The two values for each sampling point are averaged, yielding a maximum of 121 data points per grid per probing date. The active layer was not measured at locations where grid points intersect rocks or deep water.
+	This soil climate station was established in June of 1996 and is located on the British Petroleum (BP) Prudhoe Bay oil field near Betty pingo. The elevation is about 12 m (40 ft). This station monitors air temperature, soil temperature at various depths to a maximum of 120 cm, and soil water content at 10, 25, and 40 cm depths. Measurements are made at 20-minute intervals and averaged and recorded every hour.
+	DATA
+	Soil temperature and soil moisture metadata and data are also available at http://soils.usda.gov/survey/scan/alaska/BettyPingo
+	Additional Climate data are also available at http://www.uaf.edu/water/projects/NorthSlope/coastal_plain/betty/betty.html
+	/
+Data Author: Nikolay Shiklomanov
+Observation: 
+	Landform: Outer coastal plain, drained lake basins
+	Lithology: Glacic Hystoturbel, Typic Aquiturbels
+		Typic Molliorthel, Typic Historthel, Typic Aquorthel
+		Organic Layer thikness:22 (cm); mineral texture -- silty loam /silt/peat
+	Vegetation: Graminoid-moss tundra and prostrate-dwarf-shrub, moss tundra (wet and moist nonacidic)
+	Vegetation_Name: Grassland
+	Description: General description of soil moisture : Very wet to saturated (Vol MC 50-90 %)
+Accessibility: 
+Disturbance: 
+Citations: 
+	0: 
+		Title: CALM USA George Washington University
+		Keywords: Active Layer
+		Version: 1
+		Language: English
+		Created: Thu Oct 24 2013 14:27:58 GMT+0000 (GMT)
+		Modified: Tue May 24 2016 14:07:07 GMT+0000 (GMT)
+		Organizations: 
+			0: 
+				Name: The George Washington University, Department of Geography
+				Address: 
+					Address: 1922 F St., NW
+					Zip_Code: 20052
+					City: Washington
+					Country: USA
+					Phone: +1(202)994-3966
+					Email: shiklom@gwu.edu
+					Url: http://www.gwu.edu/
+		Principal Investigators: 
+			0: 
+				First_Name: Nikolay
+				Last_Name: Shiklomanov
+				Contact: yes
+				Position: Principal Investigator on CALM project
+				Address: 
+					Address: 1922 F St., NW
+					Zip_Code: 20052
+					City: Washington
+					Country: USA
+					Phone: +1(202)994-3966
+					Email: shiklom@gwu.edu
+					Url: http://www.http//www.gwu.edu/~calm/
+				Organization: 
+					Name: The George Washington University, Department of Geography
+					Address: 
+						Address: 1922 F St., NW
+						Zip_Code: 20052
+						City: Washington
+						Country: USA
+						Phone: +1(202)994-3966
+						Email: shiklom@gwu.edu
+						Url: http://www.gwu.edu/
+Datasets: 
+	0: 
+		Created: Mon Nov 09 2015 15:53:13 GMT+0000 (GMT)
+		Last Update: Mon Feb 19 2018 10:34:49 GMT+0000 (GMT)
+		Policy: Open
+		Variable: Active Layer Thickness (grid/transect)
+		Frequency: As Needed
+		Datatype: Sporadic
+		Method: Mechanical Probing
+		Medium: Soil
+		Resolution: Irrelevant
+		Number of values: 4356
+		Number of null values: 565
+		Minimum value: 6.5
+		Maximum value: 332
+		Avarage value: 49.4588709285957
+		Data: 
+			Csv File: Activelayer_6-Betty_Pingo-Dataset_1506-Sporadic-As_Needed-Active_Layer_Thickness_grid_transect-Mechanical_Probing.timeserie.csv

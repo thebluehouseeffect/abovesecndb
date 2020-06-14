@@ -1,0 +1,101 @@
+
+Created: Mon Feb 03 2014 14:11:11 GMT+0000 (GMT)
+Last Update: Tue Feb 04 2014 08:08:17 GMT+0000 (GMT)
+Id: 233
+Name: Betty Pingo WET
+Country: United States
+Timezone: -09:00
+Url: http://gtnpdatabase.org/activelayers/view/233
+Active: no
+Permafrost_Zone: Continuous
+Longitude: -148.919
+Latitude: 70.275
+Elevation: 179.01748657
+Slope: 0 °
+Aspect: 265 °
+Type: Grid
+Ancillary Code : U7 C
+Have_Data: yes
+Metadata Completeness: 81 %
+Description: DESCRIPTION OF AREA CONTAINING SITE:
+	Site description: Flat with low-centered polygons; wet nonacidic tundra.
+	Vegetation communities: (1) Lower microsites, including polygon basins and troughs: Wet Eriophorurn angustifolium, Carex aquatilis, Scorpidiurn scorpioides graminoid tundra. (2) Raised microsites, including polygon rims and hummocks: Moist Eriophorum triste, Dryas integrifolia, Tomenthypnum nitens graminoid, prostrate-shrub tundra. Cover of top 5 species: Eriophorum angustifolim (28%), Scorpidium scorpioides (11%), Carex aquatilis (10%), Drepanocladus brevifolius (3%),Dryas integrifolia (3%)
+	Mean vegetation height: 4.1 +/- 3.9 cm
+	Mean live moss layer thickness: 0.8 +/- 0.7 cm
+	Organic layer thickness: 25 + 1.5 cm.
+	 (Walker and Bockheim, 1995)
+	SAMPLING DESIGN AND METHOD: 
+	Beginning in 1995, the active layer has been probed at least annually at the site. The procedure involves pushing a metal rod, calibrated in cm, to the point of refusal, interpreted in most cases to be the frost table. Thaw depth measurements at each site were obtained by probing at 5 m intervals along the plot’s two perpendicular and one diagonal transect, resulting in 71 points per plot per probing date.
+	In 1995 the site was instrumented with several OnsetTM portable data loggers connected to probe-type thermistors. Each logger/thermistor system has an effective temperature range of -50oC to +33oC and resolution of approximately 0.32oC. At each site, one thermistor was placed in a radiation shield approximately 2 m above the ground surface, and nine loggers were placed at the interface between mineral soil and organic material in various microtopographic positions within the site. Temperature measurements were collected at, 1 hr, and 2 hr intervals depending on season, and year. Details on methodology are provided in Klene et. al 2001.
+	Additional Climate data are also available at http://www.uaf.edu/water/projects/NorthSlope/coastal_plain/betty/betty.html
+Data Author: Nikolay Shiklomanov
+Observation: 
+	Landform: Outer coastal plain, drained lake basins
+	Lithology: Histic Pergelic Cryaquolls (39%), P. Cryaquolls (25%), P.Cryofibrists (24%), others (12%).
+		Organic layer thickness: 25 +/- 1.5 cm mineral texture -- silty loam /silt/peat
+	Vegetation: Flat with low-centered polygons; wet nonacidic tundra
+	Vegetation_Name: Tundra
+	Description: General description of soil moisture : Very wet to saturated
+Accessibility: 
+Disturbance: 
+Citations: 
+	0: 
+		Title: CALM USA George Washington University
+		Keywords: Active Layer
+		Version: 1
+		Language: English
+		Created: Thu Oct 24 2013 14:27:58 GMT+0000 (GMT)
+		Modified: Tue May 24 2016 14:07:07 GMT+0000 (GMT)
+		Organizations: 
+			0: 
+				Name: The George Washington University, Department of Geography
+				Address: 
+					Address: 1922 F St., NW
+					Zip_Code: 20052
+					City: Washington
+					Country: USA
+					Phone: +1(202)994-3966
+					Email: shiklom@gwu.edu
+					Url: http://www.gwu.edu/
+		Principal Investigators: 
+			0: 
+				First_Name: Nikolay
+				Last_Name: Shiklomanov
+				Contact: yes
+				Position: Principal Investigator on CALM project
+				Address: 
+					Address: 1922 F St., NW
+					Zip_Code: 20052
+					City: Washington
+					Country: USA
+					Phone: +1(202)994-3966
+					Email: shiklom@gwu.edu
+					Url: http://www.http//www.gwu.edu/~calm/
+				Organization: 
+					Name: The George Washington University, Department of Geography
+					Address: 
+						Address: 1922 F St., NW
+						Zip_Code: 20052
+						City: Washington
+						Country: USA
+						Phone: +1(202)994-3966
+						Email: shiklom@gwu.edu
+						Url: http://www.gwu.edu/
+Datasets: 
+	0: 
+		Created: Tue Nov 10 2015 09:04:39 GMT+0000 (GMT)
+		Last Update: Tue Nov 10 2015 09:04:39 GMT+0000 (GMT)
+		Policy: Open
+		Variable: Active Layer Thickness (grid/transect)
+		Frequency: As Needed
+		Datatype: Sporadic
+		Method: Mechanical Probing
+		Medium: Soil
+		Resolution: Irrelevant
+		Number of values: 2627
+		Number of null values: 2
+		Minimum value: 3
+		Maximum value: 70
+		Avarage value: 40.153859949145
+		Data: 
+			Csv File: Activelayer_233-Betty_Pingo_WET-Dataset_1508-Sporadic-As_Needed-Active_Layer_Thickness_grid_transect-Mechanical_Probing.timeserie.csv

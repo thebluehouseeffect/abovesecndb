@@ -1,0 +1,75 @@
+
+Created: Mon Feb 03 2014 11:47:19 GMT+0000 (GMT)
+Last Update: Mon Oct 24 2016 12:28:43 GMT+0000 (GMT)
+Id: 227
+Name: 56 Mile
+Country: United States
+Timezone: -09:00
+Url: http://gtnpdatabase.org/activelayers/view/227
+Active: yes
+Permafrost_Zone: Continuous
+Longitude: -148.6821
+Latitude: 69.6969
+Elevation: 114.25927734
+Slope: 1 °
+Aspect: 75.1 °
+Type: Grid
+Ancillary Code : U31 A
+Have_Data: no
+Metadata Completeness: 81 %
+Description: SAMPLING DESIGN AND METHOD: 
+	Beginning in 1996, the active layer has been probed at least annually at the site. The procedure involves pushing a metal rod, calibrated in cm, to the point of refusal, interpreted in most cases to be the frost table. Thaw depth measurements at each site were obtained by probing at 5 m intervals along the plot’s two perpendicular and one diagonal transect, resulting in 71 points per plot per probing date.
+	In 1995 the site was instrumented with several OnsetTM portable data loggers connected to probe-type thermistors. Each logger/thermistor system has an effective temperature range of -50oC to +33oC and resolution of approximately 0.32oC. At the site, one thermistor was placed in a radiation shield approximately 2 m above the ground surface, and one thermistor placed at the interface between mineral soil and organic material within the proximity of the mast. Temperature measurements were collected at, 1 hr, and 2 hr intervals depending on season, and year. Details on methodology are provided in Klene et. al 2001.
+Data Author: Nikolay Shiklomanov
+Observation: 
+	Landform: Inner coastal plain
+	Lithology: Organic Layer thikness:NA; mineral texture -- silty loam /silty clay
+		Pergelic cryorthents
+	Vegetation: Wet tundra
+	Vegetation_Name: Tundra
+	Description: General description of soil moisture : wet to saturated
+Accessibility: 
+Disturbance: 
+Citations: 
+	0: 
+		Title: CALM USA George Washington University
+		Keywords: Active Layer
+		Version: 1
+		Language: English
+		Created: Thu Oct 24 2013 14:27:58 GMT+0000 (GMT)
+		Modified: Tue May 24 2016 14:07:07 GMT+0000 (GMT)
+		Organizations: 
+			0: 
+				Name: The George Washington University, Department of Geography
+				Address: 
+					Address: 1922 F St., NW
+					Zip_Code: 20052
+					City: Washington
+					Country: USA
+					Phone: +1(202)994-3966
+					Email: shiklom@gwu.edu
+					Url: http://www.gwu.edu/
+		Principal Investigators: 
+			0: 
+				First_Name: Nikolay
+				Last_Name: Shiklomanov
+				Contact: yes
+				Position: Principal Investigator on CALM project
+				Address: 
+					Address: 1922 F St., NW
+					Zip_Code: 20052
+					City: Washington
+					Country: USA
+					Phone: +1(202)994-3966
+					Email: shiklom@gwu.edu
+					Url: http://www.http//www.gwu.edu/~calm/
+				Organization: 
+					Name: The George Washington University, Department of Geography
+					Address: 
+						Address: 1922 F St., NW
+						Zip_Code: 20052
+						City: Washington
+						Country: USA
+						Phone: +1(202)994-3966
+						Email: shiklom@gwu.edu
+						Url: http://www.gwu.edu/

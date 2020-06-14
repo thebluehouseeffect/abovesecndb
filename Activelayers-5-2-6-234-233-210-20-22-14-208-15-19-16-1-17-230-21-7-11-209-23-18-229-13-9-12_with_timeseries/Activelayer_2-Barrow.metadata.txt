@@ -1,0 +1,98 @@
+
+Created: Wed Oct 23 2013 15:04:51 GMT+0000 (GMT)
+Last Update: Mon Feb 03 2014 14:53:53 GMT+0000 (GMT)
+Id: 2
+Name: Barrow
+Country: United States
+Timezone: -09:00
+Url: http://gtnpdatabase.org/activelayers/view/2
+Active: yes
+Permafrost_Zone: Continuous
+Longitude: -156.604036
+Latitude: 71.316807
+Elevation: 5.969543
+Slope: 0 °
+Aspect: 206.1 °
+Type: Grid
+Ancillary Code : U1
+Have_Data: yes
+Metadata Completeness: 84 %
+Description:  
+	DESCRIPTION OF AREA CONTAINING SITE:
+	Primary landscape elements: drained lake basin, polygonized upland. A 1 X 1 km ARCSS/CALM grid was installed at Barrow in the early 1990s to facilitate collection of ecological, edaphic, and geocryological information at standardized locations that could be tied into coordinate systems with high-order accuracy. Simultaneous air and shallow ground temperatures observations have been made at several locations on the Barrow grid since 1993. The environment at Barrow was described in a series of papers including of the Tundra Biome Program during the 1970s (Brown et al., 1980). The Barrow 1-km2 grid is located about 5 km east of the village of Barrow on the outer Arctic Coastal Plain. The site is situated on reworked silts of marine origin. Terrain occupied by the grid encompasses a drained lake basin or lagoon to the west  (Central Marsh). To the east is a polygonized ‘‘upland,’’ a term used here to convey relative elevation within the low relief Coastal Plain. These areas are separated by a north-south trending beach ridge composed of sandy gravels. The polygonized upland is occupied by moist acidic tundra, with well-developed low-centered, ice-wedge polygons in the northeast and high-centered ice wedge polygons to the southeast. The latter developed in response to thermomechanical incision by streams draining to Elson Lagoon in the southeastern corner of the grid; ephemeral flow is confined to the ice-wedge troughs (Hinkel & Nelson, 2003).
+	The Barrow CALM grid was the first to be formally established as part of the Circumpolar Active Layer Monitoring (CALM) program (Brown et al. 2000).  A second series of nineteen, 10m plots (CALM site U2) are located in the southeast section of the 1 km grid. These plots were established in 1962 and active layers are measured each year at the same time the 1 km grid is measured (Brown and Johnson 1965).
+	SAMPLING DESIGN AND METHOD: 
+	1-sq km grid consists of a square array of surveyed permanent stakes separated by 100 m, yielding an 11 × 11 array of sampling nodes on each grid. Thaw depth and snow sampling was conducted twice by manual probing at each stake. The two values for each sampling point are averaged, yielding a maximum of 121 data points per grid per probing date. The active layer was not measured at locations where grid points intersect rocks or deep water.
+	This soil climate station U1-1 (Barrow 1) was established in June of 1995 and is located north of Barrow, Alaska, near the NOAA Climate Monitoring and Diagnostics Laboratory (CMDL) within the U1 CALM grid. The elevation is about 9 m (30 ft). This station monitors soil temperature at various depths to a maximum of 120 cm, and soil water content at 5, 20, and 35 cm depths. Measurements are made at 20-minute intervals and averaged and recorded every hour.
+	This soil climate station U1-2 (Barrow 2) is located north of Barrow, Alaska, on the Barrow Environmental Observatory (BEO), which consists of 7,466 acres of arctic tundra that has been permanently set aside for arctic research projects. U1-2 station is located within the U1 CALM grid and in close proximity of CALM U2 CRREL plot. This climate stations was established in June of 1996, and is at an elevation of about 4 m (16 ft). This station monitors soil temperature at 15, 25, 24, and 43 cm depths, and soil water content at 15, 25, 34, and 46 cm depths. Soil temperature and moisture content are measured in a frost boil at 10, 25, 40, and 55 cm depths. Measurements are made at 20-minute intervals and averaged and recorded every hour.
+	DATA
+	Soil temperature and soil moisture metadata and data are also available at http://soils.usda.gov/survey/scan/alaska/Barrow2/ and http://soils.usda.gov/survey/scan/alaska/Barrow1/
+Data Author: Nikolay Shiklomanov
+Observation: 
+	Landform: Outer coastal plain, drained lake basins
+	Lithology: Organic Layer thikness:13(cm); mineral texture -- siltty clay loam/loam/gravelly loam (coarce beach ridge deposit) (predominant texture, i.e., ‘sand’, ‘gravel’, ‘peat’, etc.): Ruptic-Histic and Typic Aquiturbels Typic Histoturbel, Typic Aquiturbel (1)
+	Vegetation: Graminoid-moss tundra (wet and moist acidic)
+	Vegetation_Name: Tundra
+Accessibility: 
+Disturbance: 
+Citations: 
+	0: 
+		Title: CALM USA George Washington University
+		Keywords: Active Layer
+		Version: 1
+		Language: English
+		Created: Thu Oct 24 2013 14:27:58 GMT+0000 (GMT)
+		Modified: Tue May 24 2016 14:07:07 GMT+0000 (GMT)
+		Organizations: 
+			0: 
+				Name: The George Washington University, Department of Geography
+				Address: 
+					Address: 1922 F St., NW
+					Zip_Code: 20052
+					City: Washington
+					Country: USA
+					Phone: +1(202)994-3966
+					Email: shiklom@gwu.edu
+					Url: http://www.gwu.edu/
+		Principal Investigators: 
+			0: 
+				First_Name: Nikolay
+				Last_Name: Shiklomanov
+				Contact: yes
+				Position: Principal Investigator on CALM project
+				Address: 
+					Address: 1922 F St., NW
+					Zip_Code: 20052
+					City: Washington
+					Country: USA
+					Phone: +1(202)994-3966
+					Email: shiklom@gwu.edu
+					Url: http://www.http//www.gwu.edu/~calm/
+				Organization: 
+					Name: The George Washington University, Department of Geography
+					Address: 
+						Address: 1922 F St., NW
+						Zip_Code: 20052
+						City: Washington
+						Country: USA
+						Phone: +1(202)994-3966
+						Email: shiklom@gwu.edu
+						Url: http://www.gwu.edu/
+Datasets: 
+	0: 
+		Created: Wed Oct 23 2013 15:09:52 GMT+0000 (GMT)
+		Last Update: Fri Feb 16 2018 13:45:59 GMT+0000 (GMT)
+		Policy: Open
+		Variable: Active Layer Thickness (grid/transect)
+		Frequency: As Needed
+		Datatype: Sporadic
+		Method: Mechanical Probing
+		Medium: Soil
+		Resolution: Irrelevant
+		Number of values: 4356
+		Number of null values: 99
+		Minimum value: 0
+		Maximum value: 102.5
+		Avarage value: 37.8869110370297
+		Data: 
+			Csv File: Activelayer_2-Barrow-Dataset_14-Sporadic-As_Needed-Active_Layer_Thickness_grid_transect-Mechanical_Probing.timeserie.csv

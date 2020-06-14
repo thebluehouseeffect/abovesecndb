@@ -1,0 +1,102 @@
+
+Created: Thu Jan 02 2014 11:04:54 GMT+0000 (GMT)
+Last Update: Wed Nov 11 2015 09:40:22 GMT+0000 (GMT)
+Id: 23
+Name: Sagwon Hills MNT
+Country: United States
+Timezone: -09:00
+Url: http://gtnpdatabase.org/activelayers/view/23
+Active: no
+Permafrost_Zone: Continuous
+Longitude: -148.67033
+Latitude: 69.441
+Elevation: 247.759338
+Slope: 2 °
+Aspect: 180.2 °
+Type: Grid
+Ancillary Code : U32 A
+Have_Data: yes
+Metadata Completeness: 81 %
+Description:  
+	DESCRIPTION OF AREA CONTAINING SITE:
+	Hill, gentle northwest-facing slope (4 degrees) with nonsorted circles; moist nonacidic tundra.
+	Vegetation communities: (1) Vegetated nonsorted circles: Moist Eriophorum triste, E. vaginatum, Dryas integrifolia, Hylocomium splendens, Racomitrium lanuginosum, Thamnolia subuliformis graminoid, prostrate-shrub tundra. (2) Barren nonsorted circles: Dry Saxifraga oppositifolia, Juncus biglumis, Ochrolechia frigida forb, crustose-lichen barren (3) Areas between nonsorted circles: Moist Dryas integrifolia, Salix reticulata, Eriophorum triste, Tomentypnum nitens, prostrate-shrub, graminoid, moss tundra. Cover of top 5 species: Carex bigelowii (20%), Dryas integrifolia (14%), Eriophorum triste (14%), Hylocomium splendens (10%), Eriophorum vaginatum (9%)
+	Mean vegetation height: 3.9 +/- 4.6 cm
+	Mean live moss layer thickness: 2.1 +/-1.4 cm
+	Organic layer thickness: 9 +/- 1.2 cm.
+	 (Walker and Bockheim, 1995)
+	SAMPLING DESIGN AND METHOD: 
+	Beginning in 1995, the active layer has been probed at least annually at the site. The procedure involves pushing a metal rod, calibrated in cm, to the point of refusal, interpreted in most cases to be the frost table. Thaw depth measurements at each site were obtained by probing at 5 m intervals along the plot’s two perpendicular and one diagonal transect, resulting in 71 points per plot per probing date.
+	In 1995 the site was instrumented with several OnsetTM portable data loggers connected to probe-type thermistors. Each logger/thermistor system has an effective temperature range of -50oC to +33oC and resolution of approximately 0.32oC. At the site, one thermistor was placed in a radiation shield approximately 2 m above the ground surface, and nine loggers were placed at the interface between mineral soil and organic material in various microtopographic positions within the site. Temperature measurements were collected at, 1 hr, and 2 hr intervals depending on season, and year. Details on methodology are provided in Klene et. al 2001.
+	The soil climate station (Sagwon1) was established in June of 1996 and is located 0.5 miles west of the Haul road (Dalton Hwy.) in the Sagwon hills within the CALM U32A site. The elevation is about 244 m (800 ft). This station monitors air temperature, soil temperature at various depths to a maximum of 70 cm, and soil water contents at 10, 25, and 40 cm depths. Measurements are made at 20-minute intervals and averaged and recorded every hour.
+	Soil temperature and soil moisture metadata and data are also available at http://soils.usda.gov/survey/scan/alaska/Sagwon1/
+Data Author: Nikolay Shiklomanov
+Observation: 
+	Landform: Foothills tundra and prostrate-dwarf-shrub. Hill, gentle northwest-facing slope (4 degrees) with nonsorted circles
+	Lithology: Pergelic Cryaquolls (43%), P. Cryaquepts (18%), P. Cryoborolls (14%), others (25%).
+	Vegetation: Moist nonacidic tundra
+	Vegetation_Name: Tundra
+	Description: General description of soil moisture : Moist
+Accessibility: 
+Disturbance: 
+Citations: 
+	0: 
+		Title: CALM USA George Washington University
+		Keywords: Active Layer
+		Version: 1
+		Language: English
+		Created: Thu Oct 24 2013 14:27:58 GMT+0000 (GMT)
+		Modified: Tue May 24 2016 14:07:07 GMT+0000 (GMT)
+		Organizations: 
+			0: 
+				Name: The George Washington University, Department of Geography
+				Address: 
+					Address: 1922 F St., NW
+					Zip_Code: 20052
+					City: Washington
+					Country: USA
+					Phone: +1(202)994-3966
+					Email: shiklom@gwu.edu
+					Url: http://www.gwu.edu/
+		Principal Investigators: 
+			0: 
+				First_Name: Nikolay
+				Last_Name: Shiklomanov
+				Contact: yes
+				Position: Principal Investigator on CALM project
+				Address: 
+					Address: 1922 F St., NW
+					Zip_Code: 20052
+					City: Washington
+					Country: USA
+					Phone: +1(202)994-3966
+					Email: shiklom@gwu.edu
+					Url: http://www.http//www.gwu.edu/~calm/
+				Organization: 
+					Name: The George Washington University, Department of Geography
+					Address: 
+						Address: 1922 F St., NW
+						Zip_Code: 20052
+						City: Washington
+						Country: USA
+						Phone: +1(202)994-3966
+						Email: shiklom@gwu.edu
+						Url: http://www.gwu.edu/
+Datasets: 
+	0: 
+		Created: Wed Nov 11 2015 09:37:53 GMT+0000 (GMT)
+		Last Update: Mon Oct 10 2016 11:08:56 GMT+0000 (GMT)
+		Policy: Open
+		Variable: Active Layer Thickness (grid/transect)
+		Frequency: As Needed
+		Datatype: Sporadic
+		Method: Mechanical Probing
+		Medium: Soil
+		Resolution: Irrelevant
+		Number of values: 2840
+		Number of null values: 6
+		Minimum value: 0
+		Maximum value: 96
+		Avarage value: 52.751093771934
+		Data: 
+			Csv File: Activelayer_23-Sagwon_Hills_MNT-Dataset_1519-Sporadic-As_Needed-Active_Layer_Thickness_grid_transect-Mechanical_Probing.timeserie.csv

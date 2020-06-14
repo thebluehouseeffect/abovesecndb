@@ -1,0 +1,88 @@
+
+Created: Fri Dec 27 2013 13:06:47 GMT+0000 (GMT)
+Last Update: Mon Feb 03 2014 10:20:30 GMT+0000 (GMT)
+Id: 12
+Name: Wickersham
+Country: United States
+Timezone: -09:00
+Url: http://gtnpdatabase.org/activelayers/view/12
+Active: no
+Permafrost_Zone: Discontinuous
+Longitude: -148.05
+Latitude: 65.266667
+Elevation: 364.315582
+Slope: 3 °
+Aspect: 270 °
+Type: Transect
+Ancillary Code : U17
+Have_Data: yes
+Metadata Completeness: 78 %
+Description:  
+	DESCRIPTION OF AREA CONTAINING SITE:
+	The Wickersham CALM site was established as part of a major fire-effects study conducted by the Institute of Northern Forestry following the 1971 Wickersham Fire.
+	As part of these studies a series of thaw probe lines were established to follow the changes in the active layer as a result of the fire and fireline construction. Details of the fire and related studies were presented by Viereck and Dyrness (1979). The data for the Wickersham CALM site comes from an undisturbed black spruce stand that was established as a “control” for the studies of active layer changes in the burned and fireline areas.
+	The Wickersham site is approximately 50 km northwest of Fairbanks and adjacent to the Elliot Highway. (65 o 10’N: 147 o 54’W) The probe line is at an elevation of 335 m near the foot of a long west-facing slope. The vegetation along the probe line is an open black spruce forest type (Open Picea mariana/Ledum groenlandicum/Sphagnum spp-Cladonia spp community) (Viereck et al 1993). The black spruce have a density of 1240 trees/ha and 45% canopy cover. Average diameter of the trees in 1971 was only 5.2 cm. A detailed description of the vegetation at the site can be found in Viereck, 1982.
+	SAMPLING DESIGN AND METHOD: 
+	A probe line 20 meters long was established parallel to the slope: 10 probing sites at 2-meter intervals were permanently marked along the line. A trail was established below the line to avoid disturbance of the vegetation at each of the probe sites.  For the first four years of the study the active layer was measured at two-week intervals. Starting in 1975 soil temperatures were also taken at two-week intervals at depths of 5, 10, 20, and 50 cm with a steel probe with a thermistors at the tip. In 1978 a set of thermistors was installed near one end of the probe line at depths of 5, 10, 20, 50, and 90 cm and were read weekly or biweekly. In addition, in October of 1978 a thermograph and weather station were installed at the site to record air temperatures. Snow depth was measured throughout the winter using two permanent snow poles.  These weekly observations were continued through October of 1983. After that the active layer was measured at the ten points along the probe line once a year, usually in mid September.
+Data Author: Brian Charlton
+Observation: 
+	Landform: Foot of long west-facing slope
+	Lithology: The soil at the site is a Saulicch silt loam (a Histic Cryaquept (USDA 1975). These are poorly drained soils formed of a silty loam more than 75 cm in depth with a shallow active layer. There is a moss-litter layer (01 and 02) of 25 to 30 cm underlain by approximately 10 cm of a dark grayish-brown silty loam A horizon over a frozen C horizon of olive-gray silty loam.
+	Morphology: Foot of long west-facing slope
+	Vegetation: Open black spruce forest
+	Vegetation_Name: Forest Tundra
+	Description: General description of soil moisture : moist
+Accessibility: 
+Disturbance: 
+Citations: 
+	0: 
+		Title: CALM USA BNZ LTER
+		Keywords: Active layer
+		Version: 1
+		Language: English
+		Created: Mon Feb 03 2014 09:51:22 GMT+0000 (GMT)
+		Modified: Mon Feb 03 2014 09:51:22 GMT+0000 (GMT)
+		Organizations: 
+			0: 
+				Name: Bonanza Creek Long Term Ecological Research 
+				Address: 
+					Country: USA
+					Url: http://www.lter.uaf.edu/default.cfm
+		Principal Investigators: 
+			0: 
+				First_Name: Brian
+				Last_Name: Charlton
+				Contact: no
+				Address: 
+					Address: Boreal Ecology Cooperative Research Unit University of Alaska Fairbanks School of Agriculture and Land Resources Management P.O
+					Zip_Code: 99775-6780
+					City: Fairbanks
+					Region: AK
+					Country: USA
+					Phone: (907) 474-5104
+					Fax: (907) 474-6251
+					Email: bacharlton@alaska.edu
+					Url: http://www.lter.uaf.edu/personnel_detail.cfm?people_pkey=263
+				Organization: 
+					Name: Bonanza Creek Long Term Ecological Research 
+					Address: 
+						Country: USA
+						Url: http://www.lter.uaf.edu/default.cfm
+Datasets: 
+	0: 
+		Created: Wed Nov 11 2015 09:20:51 GMT+0000 (GMT)
+		Last Update: Wed Nov 11 2015 09:20:51 GMT+0000 (GMT)
+		Policy: Open
+		Variable: Active Layer Thickness (grid/transect)
+		Frequency: As Needed
+		Datatype: Sporadic
+		Method: Mechanical Probing
+		Medium: Soil
+		Resolution: Irrelevant
+		Number of values: 450
+		Number of null values: 1
+		Minimum value: 23
+		Maximum value: 74
+		Avarage value: 52.0182762836185
+		Data: 
+			Csv File: Activelayer_12-Wickersham-Dataset_1517-Sporadic-As_Needed-Active_Layer_Thickness_grid_transect-Mechanical_Probing.timeserie.csv

@@ -1,0 +1,99 @@
+
+Created: Mon Feb 03 2014 13:11:11 GMT+0000 (GMT)
+Last Update: Mon Feb 03 2014 13:15:36 GMT+0000 (GMT)
+Id: 230
+Name: Imnavait Creek MAT
+Country: United States
+Timezone: -09:00
+Url: http://gtnpdatabase.org/activelayers/view/230
+Active: no
+Permafrost_Zone: Continuous
+Longitude: -149.30933
+Latitude: 68.611
+Elevation: 907.68933105
+Slope: 6 °
+Aspect: 54.4 °
+Type: Grid
+Ancillary Code : U11 C
+Have_Data: yes
+Metadata Completeness: 78 %
+Description: DESCRIPTION OF AREA CONTAINING SITE:
+	U11C 1-ha grid located within middle part of the U11A 1-km grid. It occupies Lower hilislope (15 degrees west-facing) above U11B 1-ha grid.
+	Site description: Lower hilislope (15 degrees west-facing) with water tracks, scattered glacial erratics and nonsorted circles, moist acidic tundra, shrublands in water tracks. Vegetation communities: Inter-water-track areas: (1) Moist Eriophorum vaginatum, Ledum decumbens, Vaccinium vitis-idaea, Sphagnum girgensohnii tussock-graminoid, dwarf-shrub tundra. (2) Water tracks: Wet Salix pulchra, Rubus chamaemorus, Sphagnum angustifolium low-shrub tundra, and moist Betula nana, Rubus chamaemorus, Sphagnum spp. dwarf-shrub tundra. Cover of top 5 species: Eriophorum vaginatum (12%), Betula nana (11%), Vaccinium vitis-idaea (9%), Carex bigelowii (8%), Ledum decumbens (6%).
+	 Mean vegetation height: 3.6 +/- 3.6 cm
+	Mean live moss layer thickness: 2.5 +/- 1.1 cm
+	Organic layer thickness: 15 + 1.9 cm.
+	(Walker and Bockheim, 1995)
+	SAMPLING DESIGN AND METHOD: 
+	Beginning in 1995, the active layer has been probed at least annually at the site. The procedure involves pushing a metal rod, calibrated in cm, to the point of refusal, interpreted in most cases to be the frost table. Thaw depth measurements at each site were obtained by probing at 5 m intervals along the plot’s two perpendicular and one diagonal transect, resulting in 71 points per plot per probing date.
+	In 1995 the site was instrumented with several OnsetTM portable data loggers connected to probe-type thermistors. Each logger/thermistor system has an effective temperature range of -50oC to +33oC and resolution of approximately 0.32oC. At each site, one thermistor was placed in a radiation shield approximately 2 m above the ground surface, and nine loggers were placed at the interface between mineral soil and organic material in various microtopographic positions within the site. Temperature measurements were collected at, 1 hr, and 2 hr intervals depending on season, and year. Details on methodology are provided in Klene et. al 2001.
+Data Author: Nikolay Shiklomanov
+Observation: 
+	Landform: Glaciated foothills
+	Lithology: Pergelic Cryaquepts (82%), Histic Pergelic Cryaquepts (18%).
+		Organic layer thickness: 15 + 1.9 cm.  Soil texture - silt
+	Vegetation: Moist acidic tundra 
+	Vegetation_Name: Tundra
+Accessibility: 
+Disturbance: 
+Citations: 
+	0: 
+		Title: CALM USA George Washington University
+		Keywords: Active Layer
+		Version: 1
+		Language: English
+		Created: Thu Oct 24 2013 14:27:58 GMT+0000 (GMT)
+		Modified: Tue May 24 2016 14:07:07 GMT+0000 (GMT)
+		Organizations: 
+			0: 
+				Name: The George Washington University, Department of Geography
+				Address: 
+					Address: 1922 F St., NW
+					Zip_Code: 20052
+					City: Washington
+					Country: USA
+					Phone: +1(202)994-3966
+					Email: shiklom@gwu.edu
+					Url: http://www.gwu.edu/
+		Principal Investigators: 
+			0: 
+				First_Name: Nikolay
+				Last_Name: Shiklomanov
+				Contact: yes
+				Position: Principal Investigator on CALM project
+				Address: 
+					Address: 1922 F St., NW
+					Zip_Code: 20052
+					City: Washington
+					Country: USA
+					Phone: +1(202)994-3966
+					Email: shiklom@gwu.edu
+					Url: http://www.http//www.gwu.edu/~calm/
+				Organization: 
+					Name: The George Washington University, Department of Geography
+					Address: 
+						Address: 1922 F St., NW
+						Zip_Code: 20052
+						City: Washington
+						Country: USA
+						Phone: +1(202)994-3966
+						Email: shiklom@gwu.edu
+						Url: http://www.gwu.edu/
+Datasets: 
+	0: 
+		Created: Tue Nov 10 2015 09:59:25 GMT+0000 (GMT)
+		Last Update: Mon Oct 10 2016 11:07:29 GMT+0000 (GMT)
+		Policy: Open
+		Variable: Active Layer Thickness (grid/transect)
+		Frequency: As Needed
+		Datatype: Sporadic
+		Method: Mechanical Probing
+		Medium: Soil
+		Resolution: Irrelevant
+		Number of values: 2698
+		Number of null values: 33
+		Minimum value: 0
+		Maximum value: 86
+		Avarage value: 42.4017101495385
+		Data: 
+			Csv File: Activelayer_230-Imnavait_Creek_MAT-Dataset_1510-Sporadic-As_Needed-Active_Layer_Thickness_grid_transect-Mechanical_Probing.timeserie.csv

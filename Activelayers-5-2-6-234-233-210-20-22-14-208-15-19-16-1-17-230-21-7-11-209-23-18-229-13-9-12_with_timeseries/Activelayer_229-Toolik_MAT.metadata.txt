@@ -1,0 +1,100 @@
+
+Created: Mon Feb 03 2014 13:02:19 GMT+0000 (GMT)
+Last Update: Mon Feb 03 2014 13:05:39 GMT+0000 (GMT)
+Id: 229
+Name: Toolik MAT
+Country: United States
+Timezone: -09:00
+Url: http://gtnpdatabase.org/activelayers/view/229
+Active: no
+Permafrost_Zone: Continuous
+Longitude: -149.61817
+Latitude: 68.624
+Elevation: 758.49420166
+Slope: 4 °
+Aspect: 175.4 °
+Type: Grid
+Ancillary Code : U12 B
+Have_Data: yes
+Metadata Completeness: 81 %
+Description:  
+	DESCRIPTION OF AREA CONTAINING SITE:
+	U12B 1-ha grid located within the lower part of U12A 1-km grid. Site description: Gentle (3 degrees) north-facing slope, including water track and nonsorted circles ; moist acidic tundra and water-track complex. Vegetation communities: (1) Tussock tundra areas between nonsorted circles: Moist Eriophorum vaginatum, Betula nana, Hylocomium splendens tussock-graminoid, dwarf-shrub tundra. (2) Vegetatated non sorted circles: Dry Vaccinium vitis-idaea, Racomitrium lanuginosum, Cladina arbuscula prostrate-shrub, fruticos-lichen tundra. (3) Barren nonsorted circles: Dry Luzula arctica, Juncus, Antheliajuratzkana barren. (4) Water tracks: Wet Salix pulchra, Eriophorum angustifolium low-shrub tundra. (5) Shrubby water-track margins: Moist Betula nana, Rubus chamaemorus, Sphagnum girgohnsohnii dwarf-shrub tundra. (6) Water-track transitions: Wet Salix pulchra, Rubus chamaemorus, Sphagnum sp. dwarf-shrub tundra. Cover of topS species: Eriophorum vaginatum (16%), Vaccinium vitis-idaea (12%), Betula nana (10%), Hylocomium splendens (9%), Ledum decumbens (7%).
+	Mean vegetation height: 5.8 +/- 7.7 cm
+	Mean live moss layer thickness: 1.8 +/- 1.0 cm
+	Organic layer thickness: 15 + 1.0 cm.
+	 (Walker and Bockheim, 1995)
+	SAMPLING DESIGN AND METHOD: 
+	Beginning in 1995, the active layer has been probed at least annually at the site. The procedure involves pushing a metal rod, calibrated in cm, to the point of refusal, interpreted in most cases to be the frost table. Thaw depth measurements at each site were obtained by probing at 5 m intervals along the plot’s two perpendicular and one diagonal transect, resulting in 71 points per plot per probing date.
+	In 1995 the site was instrumented with several OnsetTM portable data loggers connected to probe-type thermistors. Each logger/thermistor system has an effective temperature range of -50oC to +33oC and resolution of approximately 0.32oC. At the site, one thermistor was placed in a radiation shield approximately 2 m above the ground surface, and nine loggers were placed at the interface between mineral soil and organic material in various microtopographic positions within the site. Temperature measurements were collected at, 1 hr, and 2 hr intervals depending on season, and year. Details on methodology are provided in Klene et. al 2001.
+Data Author: Nikolay Shiklomanov
+Observation: 
+	Landform: Glaciated foothills. Gentle (3 degrees) north-facing slope, including water track and nonsorted circles
+	Lithology: Pergelic Cryaquepts (73%), Histic Pergelic Cryaquepts (27%). 
+		Organic layer thickness: 1.8 +/- 1.0 cm. Soil texture – glacial till/silt
+	Vegetation: Moist acidic tundra and water-track complex.
+	Vegetation_Name: Tundra
+	Description: General description of soil moisture : Moist to wet
+Accessibility: 
+Disturbance: 
+Citations: 
+	0: 
+		Title: CALM USA George Washington University
+		Keywords: Active Layer
+		Version: 1
+		Language: English
+		Created: Thu Oct 24 2013 14:27:58 GMT+0000 (GMT)
+		Modified: Tue May 24 2016 14:07:07 GMT+0000 (GMT)
+		Organizations: 
+			0: 
+				Name: The George Washington University, Department of Geography
+				Address: 
+					Address: 1922 F St., NW
+					Zip_Code: 20052
+					City: Washington
+					Country: USA
+					Phone: +1(202)994-3966
+					Email: shiklom@gwu.edu
+					Url: http://www.gwu.edu/
+		Principal Investigators: 
+			0: 
+				First_Name: Nikolay
+				Last_Name: Shiklomanov
+				Contact: yes
+				Position: Principal Investigator on CALM project
+				Address: 
+					Address: 1922 F St., NW
+					Zip_Code: 20052
+					City: Washington
+					Country: USA
+					Phone: +1(202)994-3966
+					Email: shiklom@gwu.edu
+					Url: http://www.http//www.gwu.edu/~calm/
+				Organization: 
+					Name: The George Washington University, Department of Geography
+					Address: 
+						Address: 1922 F St., NW
+						Zip_Code: 20052
+						City: Washington
+						Country: USA
+						Phone: +1(202)994-3966
+						Email: shiklom@gwu.edu
+						Url: http://www.gwu.edu/
+Datasets: 
+	0: 
+		Created: Tue Nov 10 2015 09:42:18 GMT+0000 (GMT)
+		Last Update: Tue Nov 10 2015 09:42:18 GMT+0000 (GMT)
+		Policy: Open
+		Variable: Active Layer Thickness (grid/transect)
+		Frequency: As Needed
+		Datatype: Sporadic
+		Method: Mechanical Probing
+		Medium: Soil
+		Resolution: Irrelevant
+		Number of values: 2698
+		Number of null values: 7
+		Minimum value: 0
+		Maximum value: 98
+		Avarage value: 40.5758330518965
+		Data: 
+			Csv File: Activelayer_229-Toolik_MAT-Dataset_1509-Sporadic-As_Needed-Active_Layer_Thickness_grid_transect-Mechanical_Probing.timeserie.csv

@@ -1,0 +1,96 @@
+
+Created: Fri Dec 27 2013 16:18:31 GMT+0000 (GMT)
+Last Update: Mon Feb 03 2014 13:08:07 GMT+0000 (GMT)
+Id: 18
+Name: Toolik 1km
+Country: United States
+Timezone: -09:00
+Url: http://gtnpdatabase.org/activelayers/view/18
+Active: yes
+Permafrost_Zone: Continuous
+Longitude: -149.6
+Latitude: 68.616667
+Elevation: 741.639343
+Slope: 1 °
+Aspect: 239.1 °
+Type: Grid
+Ancillary Code : U12 A
+Have_Data: yes
+Metadata Completeness: 87 %
+Description: DESCRIPTION OF AREA CONTAINING SITE:
+	This grid occupies the flanks of a bedrock-cored hill adjacent to Toolik Lake. Moist acidic tundra has developed atop glacial tills. Vegetation and soils vary with slope, aspect, and drainage, and are discontinuous (Hinkel & Nelson, 2003).
+	SAMPLING DESIGN AND METHOD: 
+	1-sq km grid consists of a square array of surveyed permanent stakes separated by 100 m, yielding an 11 × 11 array of sampling nodes on each grid. Thaw depth and snow sampling was conducted twice by manual probing at each stake. The two values for each sampling point are averaged, yielding a maximum of 121 data points per grid per probing date. The active layer was not measured at locations where grid points intersect rocks or deep water.
+	The soil climate station was established in September of 1998 and is located near Toolik Lake, Alaska, at the University of Alaska/National Science Foundation Research camp. The station is located within the 1 km CALM u12A grid. The elevation is about 759 m (2490 ft). This station monitors air temperature, precipitation, soil temperature at various depths to a maximum of 120 cm, and soil water contents at 9, 12, 38, 39, and 68 cm depths. Measurements are made at 20-minute intervals and averaged and recorded every hour.
+	Soil temperature and soil moisture metadata and data are also available at http://soils.usda.gov/survey/scan/alaska/Toolik/
+Data Author: Nikolay Shiklomanov
+Observation: 
+	Landform: Glaciated foothills
+	Lithology: Ruptic-Histic Aquiturbel
+		Typic Aquiturbel
+		Organic Layer thikness:15 (cm); mineral texture -- silty loam /silty clay/gravelly loam (coarce glacial till)
+	Vegetation: Tussock-graminoid, dwarf-shrub tundra and prostrate-dwarf-shrub, moss tundra (moist acidic and nonacidic)
+	Vegetation_Name: Tundra
+Accessibility: 
+Disturbance: 
+Citations: 
+	0: 
+		Title: CALM USA George Washington University
+		Keywords: Active Layer
+		Version: 1
+		Language: English
+		Created: Thu Oct 24 2013 14:27:58 GMT+0000 (GMT)
+		Modified: Tue May 24 2016 14:07:07 GMT+0000 (GMT)
+		Organizations: 
+			0: 
+				Name: The George Washington University, Department of Geography
+				Address: 
+					Address: 1922 F St., NW
+					Zip_Code: 20052
+					City: Washington
+					Country: USA
+					Phone: +1(202)994-3966
+					Email: shiklom@gwu.edu
+					Url: http://www.gwu.edu/
+		Principal Investigators: 
+			0: 
+				First_Name: Nikolay
+				Last_Name: Shiklomanov
+				Contact: yes
+				Position: Principal Investigator on CALM project
+				Address: 
+					Address: 1922 F St., NW
+					Zip_Code: 20052
+					City: Washington
+					Country: USA
+					Phone: +1(202)994-3966
+					Email: shiklom@gwu.edu
+					Url: http://www.http//www.gwu.edu/~calm/
+				Organization: 
+					Name: The George Washington University, Department of Geography
+					Address: 
+						Address: 1922 F St., NW
+						Zip_Code: 20052
+						City: Washington
+						Country: USA
+						Phone: +1(202)994-3966
+						Email: shiklom@gwu.edu
+						Url: http://www.gwu.edu/
+Datasets: 
+	0: 
+		Created: Fri Feb 14 2014 13:18:17 GMT+0000 (GMT)
+		Last Update: Fri Feb 16 2018 15:12:05 GMT+0000 (GMT)
+		Policy: Open
+		Variable: Active Layer Thickness (grid/transect)
+		Frequency: Unknown
+		Datatype: Sporadic
+		Method: Mechanical Probing
+		Medium: Soil
+		Resolution: Irrelevant
+		Number of values: 4356
+		Number of null values: 1070
+		Minimum value: -480.25
+		Maximum value: 100
+		Avarage value: 38.9480862606213
+		Data: 
+			Csv File: Activelayer_18-Toolik_1km-Dataset_282-Sporadic-Unknown-Active_Layer_Thickness_grid_transect-Mechanical_Probing.timeserie.csv

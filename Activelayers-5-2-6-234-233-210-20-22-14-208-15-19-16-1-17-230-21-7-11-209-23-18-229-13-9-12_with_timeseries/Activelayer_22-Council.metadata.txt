@@ -1,0 +1,93 @@
+
+Created: Mon Dec 30 2013 13:16:27 GMT+0000 (GMT)
+Last Update: Fri Jan 31 2014 11:52:59 GMT+0000 (GMT)
+Id: 22
+Name: Council
+Country: United States
+Timezone: -09:00
+Url: http://gtnpdatabase.org/activelayers/view/22
+Active: yes
+Permafrost_Zone: Discontinuous
+Longitude: -163.714283
+Latitude: 64.838767
+Elevation: 58.894985
+Slope: 0 °
+Aspect: 0 °
+Type: Grid
+Ancillary Code : U27
+Have_Data: yes
+Metadata Completeness: 84 %
+Description: SAMPLING DESIGN AND METHOD: 
+	1-sq km grid consists of a square array of surveyed permanent stakes separated by 100 m, yielding an 11 × 11 array of sampling nodes on each grid. Thaw depth and snow sampling was conducted twice by manual probing at each stake. The two values for each sampling point are averaged, yielding a maximum of 121 data points per grid per probing date. The active layer was not measured at locations where grid points intersect rocks or deep water.
+	Council 3m Grid met tower (64 50,326' N, 163 42,619 W), about 100 m from center of east edge of the grid. Climate station has 12 thermistors in the ground ranging from 0-110 cm. Station has 6 soil moisture probes ranging from 5-30 cm depth
+Data Author: Nikolay Shiklomanov
+Observation: 
+	Landform: Glaciated foothills
+	Lithology: Peat, clay, some areas of gravel
+		General description of soil moisture: Moist to wet
+	Vegetation: Tussock tundra
+	Vegetation_Name: Shrub Tundra
+	Description: About 80% tussock tundra w/moss, some frost blisters in east portion; about 20 % shrubs, mostly lining small drainages - shrubs are most often tall (2-4 m) and very dense
+Accessibility: 
+Disturbance: 
+Citations: 
+	0: 
+		Title: CALM USA George Washington University
+		Keywords: Active Layer
+		Version: 1
+		Language: English
+		Created: Thu Oct 24 2013 14:27:58 GMT+0000 (GMT)
+		Modified: Tue May 24 2016 14:07:07 GMT+0000 (GMT)
+		Organizations: 
+			0: 
+				Name: The George Washington University, Department of Geography
+				Address: 
+					Address: 1922 F St., NW
+					Zip_Code: 20052
+					City: Washington
+					Country: USA
+					Phone: +1(202)994-3966
+					Email: shiklom@gwu.edu
+					Url: http://www.gwu.edu/
+		Principal Investigators: 
+			0: 
+				First_Name: Nikolay
+				Last_Name: Shiklomanov
+				Contact: yes
+				Position: Principal Investigator on CALM project
+				Address: 
+					Address: 1922 F St., NW
+					Zip_Code: 20052
+					City: Washington
+					Country: USA
+					Phone: +1(202)994-3966
+					Email: shiklom@gwu.edu
+					Url: http://www.http//www.gwu.edu/~calm/
+				Organization: 
+					Name: The George Washington University, Department of Geography
+					Address: 
+						Address: 1922 F St., NW
+						Zip_Code: 20052
+						City: Washington
+						Country: USA
+						Phone: +1(202)994-3966
+						Email: shiklom@gwu.edu
+						Url: http://www.gwu.edu/
+Datasets: 
+	0: 
+		Created: Fri Feb 14 2014 13:30:49 GMT+0000 (GMT)
+		Last Update: Fri Feb 14 2014 13:30:49 GMT+0000 (GMT)
+		Policy: Open
+		Variable: Active Layer Thickness (grid/transect)
+		Frequency: Unknown
+		Datatype: Sporadic
+		Method: Mechanical Probing
+		Medium: Soil
+		Resolution: Irrelevant
+		Number of values: 1936
+		Number of null values: 283
+		Minimum value: 0
+		Maximum value: 131
+		Avarage value: 67.587744199083
+		Data: 
+			Csv File: Activelayer_22-Council-Dataset_286-Sporadic-Unknown-Active_Layer_Thickness_grid_transect-Mechanical_Probing.timeserie.csv

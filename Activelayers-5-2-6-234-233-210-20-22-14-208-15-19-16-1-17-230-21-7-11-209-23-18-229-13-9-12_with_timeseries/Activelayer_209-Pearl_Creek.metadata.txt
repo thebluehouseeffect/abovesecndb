@@ -1,0 +1,87 @@
+
+Created: Mon Feb 03 2014 09:55:17 GMT+0000 (GMT)
+Last Update: Mon Feb 03 2014 10:01:02 GMT+0000 (GMT)
+Id: 209
+Name: Pearl Creek
+Country: United States
+Timezone: -09:00
+Url: http://gtnpdatabase.org/activelayers/view/209
+Active: no
+Permafrost_Zone: Discontinuous
+Longitude: -147.8
+Latitude: 64.9
+Elevation: 330.44815063
+Slope: 0 °
+Aspect: 270 °
+Type: ThawTube
+Ancillary Code : U19
+Have_Data: yes
+Metadata Completeness: 68 %
+Description:  
+	DESCRIPTION OF AREA CONTAINING SITE:
+	In 1968 three frost tubes (Rickard and Brown, 1972, Viereck and Lev 1983) were installed in a Mixed Spruce/Labrador Tea /Feathermoss (Picea glauca-P.mariana/Ledum groenlandicum/Hylocomium splendens) stand (Viereck et al 1993) about 4 km north of the University of Alaska Fairbanks (64 o 54’N: 147 o 49’W). This site is in a flat area at the bottom of a west-facing slope in the Pearl Creek valley at an elevation of 213 m. The site was burned in approximately 1914 and developed as a mixed stand of spruce. At the time of establishment of frost tubes at the site the trees were from 50 to 60 years in age. A more detailed description of the vegetation can be found in Viereck and Lev 1983.
+	SAMPLING DESIGN AND METHOD: 
+	The 3 frost tubes and 3 snow stakes were installed in 1968 in 2 parallel lines at 2 meter spacing. To minimize disturbance at the site, for the first 15 years the depth of thaw was recorded at irregular intervals, but weekly or bi-weekly during critical periods of thawing and freezing and time of total freeze. For the maximum active layer thaw the average maximum depth of thaw of the three tubes was used. In 1981 probing of ten points along the line of the frost tube using a metal rod was initiated. These points were at one-meter intervals and included the three sites of the frost tubes. Following this, the average of the ten probes, done each year at the time of maximum thaw was used to report the annual maximum active layer thaw.
+	In 1990 a weather station was established at the site and temperature sensors were established at 5,10,20,50,100,and 150 cm. A precipitation gage was also installed at this time. In 1994 an additional sensor was installed at 200 cm.  . Since 1990 readings of the temperatures, precipitation in summer, snowfall in winter, frost tubes and soil temperatures have been recorded on a weekly basis. Boardwalks were installed to protect the site from this increased human traffic. In December of 2000 a 7.2 meter deep hole was bored at the site and thermistors installed. Preliminary results indicate that the substrate is frozen at least to 7.2 meters with the coldest temperatures being only 𔂾.5 o C from 4 to 7 m.
+Data Author: Brian Charlton
+Observation: 
+	Landform: Flat west-facing valley floor
+	Lithology: The soil at the site is a Minto silt loam (Reiger et al 1963). A typical Minto silt loam has approximately 10% sand, 80% silt and 10% clay. At the Pearl Creek site the overlying organic layer varies from 24 to 40 cm in thickness and is comprised of an 01(F) layer, 15-20 cm in thickness over a 02 (H) humus layer about 5 cm thick. The living moss layer averages about 5 cm thick, ranging from 2 cm under the spruce trees to 10 cm in the densest hummocks.
+		Typic Historthel
+	Vegetation: Open black spruce-white spruce forest
+	Vegetation_Name: Coniferous Forest
+	Description: General description of soil moisture : Moist
+Accessibility: 
+Disturbance: 
+Citations: 
+	0: 
+		Title: CALM USA BNZ LTER
+		Keywords: Active layer
+		Version: 1
+		Language: English
+		Created: Mon Feb 03 2014 09:51:22 GMT+0000 (GMT)
+		Modified: Mon Feb 03 2014 09:51:22 GMT+0000 (GMT)
+		Organizations: 
+			0: 
+				Name: Bonanza Creek Long Term Ecological Research 
+				Address: 
+					Country: USA
+					Url: http://www.lter.uaf.edu/default.cfm
+		Principal Investigators: 
+			0: 
+				First_Name: Brian
+				Last_Name: Charlton
+				Contact: no
+				Address: 
+					Address: Boreal Ecology Cooperative Research Unit University of Alaska Fairbanks School of Agriculture and Land Resources Management P.O
+					Zip_Code: 99775-6780
+					City: Fairbanks
+					Region: AK
+					Country: USA
+					Phone: (907) 474-5104
+					Fax: (907) 474-6251
+					Email: bacharlton@alaska.edu
+					Url: http://www.lter.uaf.edu/personnel_detail.cfm?people_pkey=263
+				Organization: 
+					Name: Bonanza Creek Long Term Ecological Research 
+					Address: 
+						Country: USA
+						Url: http://www.lter.uaf.edu/default.cfm
+Datasets: 
+	0: 
+		Created: Wed Nov 11 2015 09:28:38 GMT+0000 (GMT)
+		Last Update: Wed Nov 11 2015 09:28:38 GMT+0000 (GMT)
+		Policy: Open
+		Variable: Active Layer Thickness (grid/transect)
+		Frequency: As Needed
+		Datatype: Sporadic
+		Method: Mechanical Probing
+		Medium: Soil
+		Resolution: Irrelevant
+		Number of values: 510
+		Number of null values: 133
+		Minimum value: 43
+		Maximum value: 201
+		Avarage value: 106.784866468842
+		Data: 
+			Csv File: Activelayer_209-Pearl_Creek-Dataset_1518-Sporadic-As_Needed-Active_Layer_Thickness_grid_transect-Mechanical_Probing.timeserie.csv
