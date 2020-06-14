@@ -7,6 +7,7 @@ import pandas
 import numpy
 import shapely
 import requests
+import glob
 import json
 from datetime import date
 import rpy2
@@ -57,17 +58,26 @@ for i in range(len(keywords_list)):
         neonUtilities.zipsByProduct(dpID=prod_list[i], site=base.c('BARR','BONA', 'CARI', 'DEJU', 'HEAL', 'OKSR', 'TOOK', 'TOOL'), savepath='~/Downloads/ABoVE_soil/data/NEON/', package='basic', check_size='FALSE')
     i =+1
     
-
 from pathlib import Path
 path = os.getcwd()
 file_list = os.listdir(path)
 file_list.remove('.DS_Store')
 file_list.sort()
     
-
 for i in range(len(file_list)):
     neonUtilities.stackByTable(filepath=path + '/' + file_list[i])
     i =+ 1
+
+for i in range(len(file_list)):
+    new_path = path + '/' + file_list[i] + '/stackedFiles'
+    new_file_list = os.listdir(new_path)
+    extension = 'csv'
+    result = glob.glob('*.{}'.format(extension))
+    for j in range(len(result)):
+        pandas.read_csv(result[j])
+        j =+ 1
+    i =+ 1
+
 
 
 # for i in range(len(keywords_list)):
